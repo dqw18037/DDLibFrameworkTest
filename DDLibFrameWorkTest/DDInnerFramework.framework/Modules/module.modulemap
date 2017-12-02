@@ -1,0 +1,6 @@
+framework module DDInnerFramework {
+  umbrella header "DDInnerFramework.h"
+
+  export *
+  module * { export * }
+}

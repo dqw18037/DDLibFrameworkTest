@@ -1,0 +1,6 @@
+framework module DDFrameWorkTest {
+  umbrella header "DDFrameWorkTest.h"
+
+  export *
+  module * { export * }
+}
